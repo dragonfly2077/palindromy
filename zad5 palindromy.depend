@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566159948 source:c:\users\drago\onedrive\dokumenty\code\zad5 palindromy\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1566161815 source:c:\users\drago\onedrive\dokumenty\code\zad5 palindromy\palindromy\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
